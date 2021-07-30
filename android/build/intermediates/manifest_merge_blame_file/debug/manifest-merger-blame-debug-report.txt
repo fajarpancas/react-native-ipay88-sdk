@@ -1,0 +1,39 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ipay88"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:4:5-66
+11-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+12-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:5:5-74
+12-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:5:22-72
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:6:5-75
+13-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:6:22-73
+14
+15    <application>
+15-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:8:5-11:19
+16        <activity
+16-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:9:9-106
+17            android:name="com.ipay.IPayIHActivity"
+17-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:9:19-57
+18            android:configChanges="orientation|screenSize" />
+18-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:9:58-104
+19        <activity
+19-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:10:9-108
+20            android:name="com.ipay.IPayIHAcitivityR"
+20-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:10:19-59
+21            android:configChanges="orientation|screenSize" />
+21-->/Users/fajarpanca/coliving-together/node_modules/ipay88-sdk/android/src/main/AndroidManifest.xml:10:60-106
+22    </application>
+23
+24</manifest>
